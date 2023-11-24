@@ -46,3 +46,5 @@ Data analysis steps are combined into a story with conclusion and findings.
 
 **6. Act**
 The last step in the data analysis process is to implement changes and take actions. What would you do in your daily life to solve your problem? Expect this question after your presentation.
+
+https://docs.google.com/spreadsheets/d/1PC1BbugwXuAza7-j-fsOIfxBSTgsO214Xo9INFz-pOI/edit#gid=0
