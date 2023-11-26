@@ -1,5 +1,5 @@
 # Explore-Data-From-Your-Daily-Life
-Structured Approach to Data Analytics
+**Structured Approach to Data Analytics**
 
 **Project requirements:**
 
@@ -9,7 +9,7 @@ Start with a problem you want to solve and define it.
 
 You can pick one area of your everyday life you would like to explore further. Think about how many times in the past week you made decisions about anything related to this area. Then, create a list and include details, such as the date, time, cost, quantity, size, etc. Try to focus on things that can be represented by a number or category.
 
-Here are a few thought-starters:
+**Here are a few thought-starters:**
 
 Number of cups of coffee/tea/water you drink daily
 Number of steps you take daily
@@ -53,4 +53,4 @@ Almost the last step is here! Share your analysis and findings with stakeholders
 The last step in the data analysis process is to implement changes and take actions. What would you do in your daily life to solve your problem? Expect this question after your presentation.
 
 
-https://docs.google.com/spreadsheets/d/1PC1BbugwXuAza7-j-fsOIfxBSTgsO214Xo9INFz-pOI/edit#gid=0
+**The project:** https://docs.google.com/spreadsheets/d/1PC1BbugwXuAza7-j-fsOIfxBSTgsO214Xo9INFz-pOI/edit#gid=0
